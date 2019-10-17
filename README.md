@@ -1,4 +1,4 @@
-[![license][1]][2] [![discord][3]][4]
+[![license][1]][2] [![discord][3]][4] [![Build Status](https://travis-ci.com/sachushaji/pendulum-sdk.svg?branch=master)](https://travis-ci.com/sachushaji/pendulum-sdk)
 
 # Pendulum SDK
 
