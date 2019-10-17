@@ -12,9 +12,6 @@ branches:
   - master
 before_install:
  - ./cleanup.sh
-jobs:
-  include:
-    - stage: Building SDK
-      script: npm run init
-    - stage: Running Tests
-      script: npm run test
+ - npm run init
+script:
+- npm run test
